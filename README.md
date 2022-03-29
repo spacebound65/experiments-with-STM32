@@ -13,3 +13,7 @@ This repo was made for researchers in UCSB's lubin lab lunar tech lab to collabo
 # useful commands and options
 
 for reading and writing code we're using KEIL microvision V5 software and CUBEMX.
+
+# STLN STM32 Initial Test V0
+
+Surviving the lunar night initial test with STM32. Basic test to show the system works.
