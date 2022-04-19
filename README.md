@@ -12,7 +12,7 @@ This repo was made for researchers in UCSB's lubin lab lunar tech lab to collabo
 
 # useful commands and options
 
-for reading and writing code we're using KEIL microvision V5 software and CUBEMX.
+for reading and writing code we're using KEIL microvision V5 software and CUBEMX. We are also using STM32CubeIDE, this software basically combines CUBEMX and Keil into a single package. 
 
 # STLN STM32 Initial Test V0
 
