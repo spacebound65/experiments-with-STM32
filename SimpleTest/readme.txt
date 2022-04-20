@@ -1,4 +1,4 @@
-## This simple test uses an STM32F407VGT6 microcontroller to control an externally connected LED based on an ADC value reading from a photoresistor.
+#This simple test uses an STM32F407VGT6 microcontroller to control an externally connected LED based on an ADC value reading from a photoresistor.
 
 The circuit diagram isn't the best, but you should get the idea.
 
