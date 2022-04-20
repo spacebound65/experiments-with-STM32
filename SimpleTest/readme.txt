@@ -1,6 +1,8 @@
-#This simple test uses an STM32F407VGT6 microcontroller to control an externally connected LED based on an ADC value reading from a photoresistor.
+This simple test uses an STM32F407VGT6 microcontroller to control an externally connected LED based on an ADC value reading from a photoresistor.
+
 
 The circuit diagram isn't the best, but you should get the idea.
+
 
 The test runs as follows:
 
@@ -12,7 +14,10 @@ LOW corresponds to a somewhat well lit room
 
 a message is printed via a UART cable notifying the user of the state change of the LED
 
+
+
 This code is extremely simple, but we can make it match the inital test by replacing the components.
+
 
 To do this we can...
 
